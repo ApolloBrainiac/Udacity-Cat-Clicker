@@ -1,5 +1,6 @@
-.test{
+.cat{
 	height: 50%;
 	width: 50%;
-	background-color: blue;
+	margin: auto;
+	border: 5px solid red;
 }
